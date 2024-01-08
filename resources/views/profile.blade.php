@@ -17,7 +17,7 @@
                 <div class="row mt-2">
   
                     <div class="col-md-6">
-                        <label class="labels">Name</label>
+                        <label class="labels">Nama</label>
                         <input type="text" name="name" class="form-control" placeholder="first name" value="{{ auth()->user()->name }}">
                     </div>
                     <div class="col-md-6">
